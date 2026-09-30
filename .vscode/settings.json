@@ -1,0 +1,16 @@
+{
+  "C_Cpp.default.cppStandard": "c++23",
+  "C_Cpp.default.cStandard": "c17",
+  "C_Cpp.default.compilerPath": "g++",
+  "C_Cpp.default.compileCommands": "${workspaceFolder}/build/compile_commands.json",
+  "C_Cpp.clang_format_style": "file",
+  "C_Cpp.clang_format_path": "${workspaceFolder}/tools/clang-format",
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools",
+    "editor.formatOnSave": true
+  },
+  "[cppm]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools",
+    "editor.formatOnSave": true
+  }
+}

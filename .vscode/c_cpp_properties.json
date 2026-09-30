@@ -1,0 +1,13 @@
+{
+  "configurations": [
+    {
+      "name": "gcc",
+      "includePath": ["${workspaceFolder}/include"],
+      "compilerPath": "g++",
+      "cStandard": "c17",
+      "cppStandard": "c++23",
+      "compileCommands": "${workspaceFolder}/build/compile_commands.json"
+    }
+  ],
+  "version": 4
+}
